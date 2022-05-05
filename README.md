@@ -1,1 +1,1 @@
-PyTorch implementation of Transformers from scratch.
+PyTorch implementation of Transformers.
